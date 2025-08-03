@@ -1,5 +1,7 @@
 # TF-template
-Template repository for TensorFlow model development
+Template repository for TensorFlow model development.
+
+The idea is to have a structure procedure how to set up development space and skip the repeating part.
 
 ## Env setup
 
